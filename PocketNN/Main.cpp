@@ -26,6 +26,9 @@ int main() {
     //     ./dataset/fashion_mnist/t10k-images-idx3-ubyte
     // (Please download the files from the link.)
 
-    example_fc_int_dfa_mnist();
+    // example_fc_int_dfa_mnist();
+
+    example_fc_int_bp_mnist();
+
     return 0;
 }
